@@ -1,0 +1,36 @@
+D:\Interview\CS Interview\DrawingProgramTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Interview\CS Interview\DrawingProgramTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Interview\CS Interview\DrawingProgramTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Interview\CS Interview\DrawingProgramTests\bin\Debug\DrawingProgramTests.dll
+D:\Interview\CS Interview\DrawingProgramTests\bin\Debug\DrawingProgramTests.pdb
+D:\Interview\CS Interview\DrawingProgramTests\bin\Debug\DrawingProgram.exe
+D:\Interview\CS Interview\DrawingProgramTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Interview\CS Interview\DrawingProgramTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Interview\CS Interview\DrawingProgramTests\bin\Debug\DrawingProgram.pdb
+D:\Interview\CS Interview\DrawingProgramTests\bin\Debug\DrawingProgram.exe.config
+D:\Interview\CS Interview\DrawingProgramTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Interview\CS Interview\DrawingProgramTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Interview\CS Interview\DrawingProgramTests\obj\Debug\DrawingProgramTests.csprojAssemblyReference.cache
+D:\Interview\CS Interview\DrawingProgramTests\obj\Debug\DrawingProgramTests.csproj.CoreCompileInputs.cache
+D:\Interview\CS Interview\DrawingProgramTests\obj\Debug\DrawingProgramTests.csproj.CopyComplete
+D:\Interview\CS Interview\DrawingProgramTests\obj\Debug\DrawingProgramTests.dll
+D:\Interview\CS Interview\DrawingProgramTests\obj\Debug\DrawingProgramTests.pdb
+D:\Interview\CS Interview\DrawingProgramTests\bin\Debug\IntegrationTest\ExpectedOutput.txt
+D:\Interview\DrawingProgram\DrawingProgramTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Interview\DrawingProgram\DrawingProgramTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Interview\DrawingProgram\DrawingProgramTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Interview\DrawingProgram\DrawingProgramTests\bin\Debug\IntegrationTest\ExpectedOutput.txt
+D:\Interview\DrawingProgram\DrawingProgramTests\bin\Debug\DrawingProgramTests.dll
+D:\Interview\DrawingProgram\DrawingProgramTests\bin\Debug\DrawingProgramTests.pdb
+D:\Interview\DrawingProgram\DrawingProgramTests\bin\Debug\DrawingProgram.exe
+D:\Interview\DrawingProgram\DrawingProgramTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Interview\DrawingProgram\DrawingProgramTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Interview\DrawingProgram\DrawingProgramTests\bin\Debug\DrawingProgram.pdb
+D:\Interview\DrawingProgram\DrawingProgramTests\bin\Debug\DrawingProgram.exe.config
+D:\Interview\DrawingProgram\DrawingProgramTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Interview\DrawingProgram\DrawingProgramTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Interview\DrawingProgram\DrawingProgramTests\obj\Debug\DrawingProgramTests.csprojAssemblyReference.cache
+D:\Interview\DrawingProgram\DrawingProgramTests\obj\Debug\DrawingProgramTests.csproj.CoreCompileInputs.cache
+D:\Interview\DrawingProgram\DrawingProgramTests\obj\Debug\DrawingProgramTests.csproj.CopyComplete
+D:\Interview\DrawingProgram\DrawingProgramTests\obj\Debug\DrawingProgramTests.dll
+D:\Interview\DrawingProgram\DrawingProgramTests\obj\Debug\DrawingProgramTests.pdb
