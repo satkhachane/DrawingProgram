@@ -45,7 +45,7 @@ namespace DrawingProgram.Processors
 
         public bool IsPixelOnCanvas(Point p, Canvas canvas)
         {
-            return p.X >= 0 && p.Y >= 0 && p.X < canvas.GetX() && p.Y < canvas.GetY();
-        }
+            return p.X > 0 && p.Y > 0 && p.X <= canvas.GetX() && p.Y <= canvas.GetY();
+        }       
     }
 }

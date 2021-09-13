@@ -14,7 +14,7 @@ namespace DrawingProgram.Processors
             _canvas = canvas;
             BackColorCommand backColorCommand = command as BackColorCommand;
             var startPoint = new Point { X = backColorCommand.Point.X - 1, Y = backColorCommand.Point.Y - 1 };
-            if (!IsPixelOnCanvas(startPoint, _canvas))
+            if (!IsPixelOnCanvas(new Point(startPoint.X + 1, startPoint.Y + 1), _canvas))
             {
                 Console.WriteLine("Invalid startpoint for coloring. Processor will skip to execute this command.");
                 Console.ReadLine();
@@ -39,7 +39,7 @@ namespace DrawingProgram.Processors
 
                 foreach (Point p in adjacentPoints)
                 {
-                    if (IsPixelOnCanvas(p, _canvas))
+                    if (IsPixelOnCanvas(new Point(p.X + 1, p.Y + 1), _canvas))
                     {
                         ColorAdjacentPoints(p, color);
                     }
